@@ -11,8 +11,7 @@ A complete MERN stack application for restaurant table booking with admin and cu
 
 | Home Page | Admin Dashboard | Booking Page |
 |-----------|-----------------|---------------|
-| ![Booking Page](./screenshots/Book_table.png) | ![Admin](./screenshots/admin-dashboard.png) | ![View Booking](./screenshots/view_booking
-.png) |  [Admin Dashboard] (./screenshots/AdminDashboard_viewBooking.png)
+| ![Booking Page](./screenshots/Book_table.png) | ![Admin](./screenshots/admin-dashboard.png) | ![View Booking](./screenshots/view_booking.png) 
 
 > Add your own screenshots in the `screenshots/` folder and update the filenames.
 
